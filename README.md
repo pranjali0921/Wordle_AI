@@ -14,4 +14,13 @@ This Python project, the Wordle Solver, is designed to strategically guess a use
 
 5. **Word Frequency Analysis**: The solver performs frequency analysis on a dataset of five-letter words to inform its guessing strategy.
 
+## About the code
+Launch the game and you will be presented with a random secret word.
+The computer will guess the word by entering a five-letter word.
+After each guess, the game will provide feedback in the form of:
+1. A 'G' indicates a correct letter in the correct position.
+2. A 'Y' indicates a correct letter in the wrong position.
+3. An 'N' circle indicates an incorrect letter.
+Keep guessing until you correctly guess the secret word or run out of attempts.
+
 This project is an engaging exercise in AI-driven word guessing and can be used for both educational purposes and as a fun AI-powered companion for Wordle enthusiasts. Enjoy watching the AI strategize its way to the correct word!
